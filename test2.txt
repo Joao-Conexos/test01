@@ -1,7 +1,9 @@
 <html>
 	<head>
+		<h1>terceira alteração</h1>
 	</head>
 	<body>
 	   <h1>Projeto do Joao Fonseca</h1>
+	      <h2> linha de pensamento</h2>
 	</body>
 </html>
